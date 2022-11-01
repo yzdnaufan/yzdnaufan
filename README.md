@@ -14,3 +14,10 @@ You can click the Preview link to take a look at your changes.
 ## 📊 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzdnaufan&hide=Procfile&layout=compact&theme=github_dark&hide_border=true)](https://github.com/yzdnaufan)
+
+
+<a href=# align="center"><img src="contributions.svg"></a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yzdnaufan/count.svg" />
+</p>
