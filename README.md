@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yzdnaufan 
 - I'm currently enrolled in UGM as Teknologi Informasi and expected to graduate at 2024
-- 👀 I’m interested in Deep Learning, Back end, and much more
-- 🌱 I’m currently learning back end development using flask
+- 👀 I’m interested in Deep Learning, Back-end, and much more
+- 🌱 I’m currently doing my Bachelor Thesis
 - 💞️ I’m looking to collaborate on many projects so feel free to ask me
 - 📫 You can reach me at ahyaznau@gmail.com
 
