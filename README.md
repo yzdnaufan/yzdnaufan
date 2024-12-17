@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @yzdnaufan 
-- I'm currently enrolled in UGM as Teknologi Informasi and expected to graduate at 2024
+- I'm a fresh graduate majoring Information Engineering
 - 👀 I’m interested in Deep Learning, Back-end, and much more
-- 🌱 I’m currently doing my Bachelor Thesis
 - 💞️ I’m looking to collaborate on many projects so feel free to ask me
-- 📫 You can reach me at ahyaznau@gmail.com
+- 📫 You can reach me out at ahyaznau@gmail.com
 
 <!---
 yzdnaufan/yzdnaufan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
